@@ -1,1 +1,1 @@
-web: gunicorn com/idemia/BlogCRUDAPI:app
+web: gunicorn com.idemia.BlogCRUDAPI:app
