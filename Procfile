@@ -1,1 +1,1 @@
-web: gunicorn BlogCRUDAPI:BlogCRUDAPI
+web: gunicorn BlogCRUDAPI:app
